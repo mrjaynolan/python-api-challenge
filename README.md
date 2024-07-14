@@ -73,6 +73,17 @@ The following analyses are performed in the notebook:
 4. Wind Speed (mph) vs. Latitude: Scatter plot to show the relationship between wind speed and latitude.
 
 
+<img width="716" alt="Screenshot 2024-07-13 at 11 13 38 PM" src="https://github.com/user-attachments/assets/9dcdd60c-0aa2-42df-a5f5-8feec587fe05">
+
+
+2. Install the requried Python libraries.
+
+<img width="680" alt="Screenshot 2024-07-13 at 11 15 02 PM" src="https://github.com/user-attachments/assets/ae38b176-66b6-4ee0-9497-f5267c59f246">
+
+3. Obtain API keys from OpenWeatherMap and Geoapify, and them to the 'api_keys.py'
+   
+<img width="682" alt="Screenshot 2024-07-13 at 11 15 10 PM" src="https://github.com/user-attachments/assets/5a3309d9-2863-4c3a-b7c9-8e03ac0e1906">
+
 ## Usage
 
 1. Run the VacationPy.ipynb Jupyter Notebook.
