@@ -29,7 +29,7 @@ Loading the VacationPy Notebook
 
 Based on the provided notebook, here's a summary of what VacationPy does:
 
-1. Setup and Dependencies: Similar to WeatherPy, it starts by importing necessary libraries and loading API keys from a separate file.
+1. Setup and Dependencies: Similar to 'WeatherPy', it starts by importing necessary libraries and loading API keys from a separate file.
 
 2. Data Filtering: The notebook filters the cities based on ideal weather conditions, such as temperature and humidity.
 
@@ -88,9 +88,9 @@ The following analyses are performed in the notebook:
 
 1. Run the VacationPy.ipynb Jupyter Notebook.
 2. The notebook will:
-      * Filter cities based on ideal weather conditions.
-      * Use the Geoapify API to find hotels near these cities.
-      * Generate a map visualization showing the ideal vacation spots and nearby hotels.
+Filter cities based on ideal weather conditions.
+Use the Geoapify API to find hotels near these cities.
+Generate a map visualization showing the ideal vacation spots and nearby hotels.
 
 
 ## Data Analysis
