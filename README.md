@@ -2,8 +2,7 @@
 
 Loading the WeatherPy Notebook
 
-
-
+<img width="711" alt="Screenshot 2024-07-13 at 11 04 11 PM" src="https://github.com/user-attachments/assets/520b48fb-22ee-4153-ac95-1597abafb3a2">
 
 #### Analyzing WeatherPy Notebook
 
@@ -24,8 +23,7 @@ Based on the provided notebook, here's a summary of what WeatherPy does:
 
 Loading the VacationPy Notebook
 
-
-
+<img width="712" alt="Screenshot 2024-07-13 at 11 04 32 PM" src="https://github.com/user-attachments/assets/298fb70a-6055-4db2-8014-5c5588c15db5">
 
 #### Analyzing VacationPy Notebook
 
@@ -43,25 +41,21 @@ Based on the provided notebook, here's a summary of what VacationPy does:
 
 # README for WeatherPY
 
-
-
-
-
-
-
-
+<img width="721" alt="Screenshot 2024-07-13 at 11 04 53 PM" src="https://github.com/user-attachments/assets/5cba6907-68bd-4a02-965f-e557d7f8466a">
 
 
 
 2. Install the required Python libraries.
 
+<img width="678" alt="Screenshot 2024-07-13 at 11 05 01 PM" src="https://github.com/user-attachments/assets/c7994310-e7e5-4547-8ed8-a7e3919ffe8c">
 
 3. Obtain an API key OpenWeatherMap and add it to the 'api_keys.py' file.
 
+<img width="679" alt="Screenshot 2024-07-13 at 11 05 08 PM" src="https://github.com/user-attachments/assets/9235da2e-70c6-449b-bea0-7a68bf1ffdb0">
 
 
 
-# Usage
+## Usage
 
 1. Run the 'WeatherPy.ipynb' Jupyter Notebook.
 2. The notebook will:
@@ -79,6 +73,22 @@ The following analyses are performed in the notebook:
 4. Wind Speed (mph) vs. Latitude: Scatter plot to show the relationship between wind speed and latitude.
 
 
+## Usage
+
+1. Run the VacationPy.ipynb Jupyter Notebook.
+2. The notebook will:
+      * Filter cities based on ideal weather conditions.
+      * Use the Geoapify API to find hotels near these cities.
+      * Generate a map visualization showing the ideal vacation spots and nearby hotels.
+
+
+## Data Analysis
+
+The following analyses are performed in the notebook:
+
+1. Filter Ideal Vacation Spots: Filter cities with ideal weather conditions such as temperature range and humidity.
+2. Find Nearby Hotels: Use the Geoapify API to find hotels near the filtered vacation spots.
+3. Map Visualization: Generate a map showing the vacation spots and nearby hotels.
 
 
 
