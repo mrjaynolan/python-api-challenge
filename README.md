@@ -56,6 +56,29 @@ Based on the provided notebook, here's a summary of what VacationPy does:
 2. Install the required Python libraries.
 
 
+3. Obtain an API key OpenWeatherMap and add it to the 'api_keys.py' file.
+
+
+
+
+# Usage
+
+1. Run the 'WeatherPy.ipynb' Jupyter Notebook.
+2. The notebook will:
+       * Generate a list of random cities.
+       * Retrieve weather data for these cities using the OpenWeatherMap API.
+       * Perfrom data analysis and generate various plots to visualize the weather data.
+
+# Data Analysis
+
+The following analyses are performed in the notebook:
+
+1. Temperature (F) vs. Latitude: Scatter plot to show the relationship between temperature and latitude.
+2. Humidity (%) vs Latitude: Scatter plot to show the relationship between humidity and latitude.
+3. Cloudiness (%) vs. Latitude: Scatter plot to show the relationship between cloudiness and latitude.
+4. Wind Speed (mph) vs. Latitude: Scatter plot to show the relationship between wind speed and latitude.
+
+
 
 
 
