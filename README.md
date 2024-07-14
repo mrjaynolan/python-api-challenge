@@ -88,9 +88,9 @@ The following analyses are performed in the notebook:
 
 1. Run the 'WeatherPy.ipynb' Jupyter Notebook.
 2. The notebook will:
-            * Generate a list of random cities.
-            * Retrieve weather data for these cities using the OpenWeatherMap API.
-            * Perform data analysis and generate various plots to visualize the weather data.
+      * Generate a list of random cities.
+      * Retrieve weather data for these cities using the OpenWeatherMap API.
+      * Perform data analysis and generate various plots to visualize the weather data.
 
 
 ## Data Analysis
