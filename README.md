@@ -86,11 +86,11 @@ The following analyses are performed in the notebook:
 
 ## Usage
 
-1. Run the VacationPy.ipynb Jupyter Notebook.
+1. Run the 'WeatherPy.ipynb' Jupyter Notebook.
 2. The notebook will:
-Filter cities based on ideal weather conditions.
-Use the Geoapify API to find hotels near these cities.
-Generate a map visualization showing the ideal vacation spots and nearby hotels.
+            * Generate a list of random cities.
+            * Retrieve weather data for these cities using the OpenWeatherMap API.
+            * Perform data analysis and generate various plots to visualize the weather data.
 
 
 ## Data Analysis
